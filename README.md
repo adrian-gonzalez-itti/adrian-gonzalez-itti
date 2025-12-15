@@ -1,7 +1,10 @@
 ¡Hola! Soy Adriaan González, y este es un vistazo rápido a lo que hago:
+
 🔭 I’m currently working on ...
 Sistemas de backend de alto rendimiento para tecnologías emergentes, específicamente en mi rol de Backend SSR, integrando soluciones de IA y arquitecturas limpias.
+
 🌱 I’m currently learning ...
 Estoy profundizando en arquitecturas limpias optimizar procesos empresariales, con IA.
+
 💬 Ask me about ...
 Desarrollo backend (Node.js, Python, JAva, etc.), integración de APIs, bases de datos.
